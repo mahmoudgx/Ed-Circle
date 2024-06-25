@@ -1,0 +1,13 @@
+.slick-dots li button:before {
+    font-size: 10px;
+  }
+  .slick-prev:before, 
+  .slick-next:before {
+      box-shadow: none !important;
+  }
+  
+  .slick-prev,
+  .slick-next {
+      box-shadow: none !important;
+  }
+  
